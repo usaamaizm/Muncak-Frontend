@@ -1,0 +1,17 @@
+.container {
+    padding-bottom: 20px;
+}
+
+
+h6{
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+ul{
+    font-size: 16px;
+}
+
+.icons-left {
+    margin-left: 84px;
+}
